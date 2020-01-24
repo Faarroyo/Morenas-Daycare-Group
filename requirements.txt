@@ -1,6 +1,6 @@
 # Requirements for Morena's Daycare web application
 
-Flask==0.10.1
+Flask==1.0
 werkzeug==0.14.1
 gunicorn==19.4.5
 pytest==5.1.0
